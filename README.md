@@ -44,3 +44,6 @@ The main goal is to build a binary classifier that can distinguish between **nor
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nafi-ruet-ece/Pneumonia_detection_using_X-ray.git
+   📂 Dataset Reference
+
+This project uses the Chest X-Ray Images (Pneumonia) dataset, commonly found on Kaggle. The dataset contains labeled chest X-ray images separated into Normal and Pneumonia categories.
