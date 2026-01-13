@@ -12,11 +12,8 @@ The main goal is to build a binary classifier that can distinguish between **nor
 | File / Folder Name | Description |
 |-------------------|-------------|
 | `chestxrayusingvgggfinalthesis.ipynb` | Main implementation of the VGG-16 based convolutional neural network for binary classification of chest X-ray images (Normal vs. Pneumonia), including training, validation, and performance evaluation. |
-| `all_transfer_in_one.ipynb` | Consolidated notebook containing the primary VGG-16 transfer learning model, Grad-CAM based visual explanations, and comparative output results from multiple transfer learning architectures applied to chest X-ray pneumonia detection. |
+| `alltransferinone.ipynb` | Consolidated notebook containing the primary VGG-16 transfer learning model, Grad-CAM based visual explanations, and comparative output results from multiple transfer learning architectures applied to chest X-ray pneumonia detection. |
 | `README.md` | Project documentation describing objectives, methodology, dataset, and experimental setup. |
-| `dataset/` | Directory containing the preprocessed chest X-ray image dataset used for training and evaluation. |
-| `models/` | Saved trained model weights and checkpoints generated during experiments. |
-| `results/` | Output visualizations, performance metrics, and Grad-CAM heatmaps for model interpretation. |
 
 
 ---
